@@ -23,11 +23,11 @@ Build Tool: Gradle
 
 ## Setup and Running the Application
 1. Database Setup (MySQL)
-   Prerequisites:
 
-MySQL Server installed and running.
-
-A MySQL client (e.g., MySQL Workbench, DBeaver, or command line) to execute scripts.
+Prerequisites:   
+- MySQL Server is installed and running.
+- 
+-A MySQL client (e.g., MySQL Workbench, DBeaver, or command line) to execute scripts.
 
 Steps:
 
@@ -96,22 +96,22 @@ Open your browser and navigate to http://localhost:8080/ (assuming your backend 
 ## How to Use
 Once the application is running, the main page will display:
 
-Live cryptocurrency prices.
+-Live cryptocurrency prices.
 
-Your account balance (initially $10,000 or as per database setup).
+-Your account balance (initially $10,000 or as per database setup).
 
-Trading forms to buy and sell crypto.
+-Trading forms to buy and sell crypto.
 
-Your portfolio of held assets.
+-Your portfolio of held assets.
 
-A history of your transactions.
+-A history of your transactions.
 
-Select a Crypto: Click "Select" next to a cryptocurrency in the "Live Cryptocurrency Prices" table. This will populate it in the trading form.
+-Select a Crypto: Click "Select" next to a cryptocurrency in the "Live Cryptocurrency Prices" table. This will populate it in the trading form.
 
-Buy/Sell: Enter the desired quantity in the trading form and click "Buy" or "Sell".
+-Buy/Sell: Enter the desired quantity in the trading form and click "Buy" or "Sell".
 
-View Updates: Your account balance, portfolio, and transaction history will update automatically.
+-View Updates: Your account balance, portfolio, and transaction history will update automatically.
 
-Reset Account: Click the "Reset Account" button in the header to restore your initial balance and clear your portfolio and transactions.
+-Reset Account: Click the "Reset Account" button in the header to restore your initial balance and clear your portfolio and transactions.
 
 Enjoy simulating your crypto trades!
