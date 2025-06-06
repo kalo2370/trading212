@@ -110,6 +110,6 @@ Once the application is running, the main page will display:
 
 - View Updates: Your account balance, portfolio, and transaction history will update automatically.
 
--Reset Account: Click the "Reset Account" button in the header to restore your initial balance and clear your portfolio and transactions.
+- Reset Account: Click the "Reset Account" button in the header to restore your initial balance and clear your portfolio and transactions.
 
 Enjoy simulating your crypto trades!
